@@ -5,4 +5,4 @@
 In this course...
                                                                                 
 ## Todo list:                                                                   
-- [ ] Add example of webscrapping using BeautifulSoup and pandas.                                                           
+- [ ] Add final assignment of course Python Project for Data Science, using webscrapping with BeautifulSoup and pandas.                                                           
