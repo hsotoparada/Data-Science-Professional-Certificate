@@ -4,7 +4,7 @@
                                                                                
 ## TODO:
 
-- [ ] Add assignment code of course 2/10: Tools_for_data_science 
+- [x] Add assignment code of course 2/10: Tools_for_data_science 
 
 - [ ] Add assignment code of course 3/10: Data_science_methodology
 
