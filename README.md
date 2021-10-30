@@ -2,5 +2,8 @@
 
 ### https://www.coursera.org/professional-certificates/ibm-data-science 
                                                                                
-## TODO:                                                                   
+## TODO:
+
+- [ ] Add assignment code of course 2/10: Tools_for_data_science 
+
 - [ ] Add final assignment of course Python Project for Data Science, using webscrapping with BeautifulSoup and pandas.                                                           
