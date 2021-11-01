@@ -16,7 +16,7 @@
 
 - [x] Add code used in course 7/10: Data_analysis_with_python
 
-- [ ] Add code used in course 8/10: Data_visualization_with_python
+- [x] Add code used in course 8/10: Data_visualization_with_python
 
 - [ ] Add code used in course 9/10: Machine_Learning_with_python
 
