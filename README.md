@@ -10,11 +10,11 @@
 
 - [ ] Add code used in course 4/10: Python_for_data_science_ai_and_development
 
-- [ ] Add code used in course 5/10: Python_project_for_data_science
+- [x] Add code used in course 5/10: Python_project_for_data_science
 
 - [ ] Add code used in course 6/10: Databases_and_sql_for_data_science_with_python
 
-- [ ] Add code used in course 7/10: Data_analysis_with_python
+- [x] Add code used in course 7/10: Data_analysis_with_python
 
 - [ ] Add code used in course 8/10: Data_visualization_with_python
 
