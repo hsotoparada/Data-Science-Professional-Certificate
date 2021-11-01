@@ -4,13 +4,13 @@
                                                                                
 ## TODO:
 
-- [x] Add code used in course 2/10: Tools_for_data_science 
+- [x] Add code used in course 2/10: Tools_Data_Science 
 
-- [ ] Add code used in course 3/10: Data_science_methodology
+- [ ] Add code used in course 3/10: Data_Science_Methodology
 
-- [ ] Add code used in course 4/10: Python_for_data_science_ai_and_development
+- [ ] Add code used in course 4/10: Python_Data_Science_AI_and_Development
 
-- [x] Add code used in course 5/10: Python_project_for_data_science
+- [x] Add code used in course 5/10: Python_Project_Data_Science
 
 - [x] Add code used in course 6/10: Databases_and_SQL_Python
 
