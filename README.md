@@ -12,7 +12,7 @@
 
 - [x] Add code used in course 5/10: Python_project_for_data_science
 
-- [ ] Add code used in course 6/10: Databases_and_sql_for_data_science_with_python
+- [x] Add code used in course 6/10: Databases_and_SQL_Python
 
 - [x] Add code used in course 7/10: Data_analysis_with_python
 
