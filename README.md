@@ -8,7 +8,7 @@
 
 - [ ] Add code used in course 3/10: Data_Science_Methodology
 
-- [ ] Add code used in course 4/10: Python_Data_Science_AI_and_Development
+- [x] Add code used in course 4/10: Python_Data_Science_AI_and_Development
 
 - [x] Add code used in course 5/10: Python_Project_Data_Science
 
