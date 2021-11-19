@@ -18,6 +18,6 @@
 
 - [x] Add code used in course 8/10: Data_Visualization_Python
 
-- [ ] Add code used in course 9/10: Machine_Learning_Python
+- [x] Add code used in course 9/10: Machine_Learning_Python
 
 - [x] Add code used in course 10/10: Applied_Data_Science_Capstone              
